@@ -1,4 +1,4 @@
-## Faya Mask – Sales, Profit & Forecast Analysis (Power BI) ![Faya Mask Logo](assets/faya_logo.png)
+## Faya Mask – Sales, Profit & Forecast Analysis (Power BI) ![Faya Mask Logo](https://github.com/Gtemowo/Faya-Mask-sales-profit-and-forecast-analysis/blob/main/Screenshot%202026-09-22%20112417.png)
 
 ## Project Overview
 An end-to-end retail analytics dashboard built for Faya Mask, covering sales performance, profitability, customer segmentation, and 12-month forecasting. The report is structured as a guided analytical narrative across 9 pages, moving from a high-level overview to diagnostic deep-dives and forward-looking projections.
