@@ -27,5 +27,5 @@ An end-to-end retail analytics dashboard built for Faya Mask, covering sales per
 
 ## Files in This Repo
 - Faya\_Mask\_Final\_Project.pbix – full Power BI file
-- screenshots – page-by-page exported images (add these — see note below)
+- screenshots – page-by-page exported images 
 ---
