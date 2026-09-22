@@ -25,6 +25,16 @@ An end-to-end retail analytics dashboard built for Faya Mask, covering sales per
 - Power Query (data transformation)
 - Custom Power BI visuals (AppSource)
 
+## Preview
+- ![Dashboard Sreenshot 1]()
+- ![Dashboard Sreenshot 2]()
+- ![Dashboard Sreenshot 3]()
+- ![Dashboard Sreenshot 4]()
+- ![Dashboard Sreenshot 5]()
+- ![Dashboard Sreenshot 6]()
+- ![Dashboard Sreenshot 7]()
+- ![Dashboard Sreenshot 8]()
+  
 ## Files in This Repo
 - Faya\_Mask\_Final\_Project.pbix – full Power BI file
 - screenshots – page-by-page exported images 
