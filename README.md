@@ -26,14 +26,13 @@ An end-to-end retail analytics dashboard built for Faya Mask, covering sales per
 - Custom Power BI visuals (AppSource)
 
 ## Preview
-- ![Dashboard Sreenshot 1]()
-- ![Dashboard Sreenshot 2]()
-- ![Dashboard Sreenshot 3]()
-- ![Dashboard Sreenshot 4]()
-- ![Dashboard Sreenshot 5]()
-- ![Dashboard Sreenshot 6]()
-- ![Dashboard Sreenshot 7]()
-- ![Dashboard Sreenshot 8]()
+- ![Sreenshot 1](https://github.com/Gtemowo/Faya-Mask-sales-profit-and-forecast-analysis/blob/main/Screenshot%202026-09-22%20234536.png)
+- ![Sreenshot 2](https://github.com/Gtemowo/Faya-Mask-sales-profit-and-forecast-analysis/blob/main/Screenshot%202026-09-22%20234556.png)
+- ![Sreenshot 3](https://github.com/Gtemowo/Faya-Mask-sales-profit-and-forecast-analysis/blob/main/Screenshot%202026-09-22%20234611.png)
+- ![Sreenshot 4](https://github.com/Gtemowo/Faya-Mask-sales-profit-and-forecast-analysis/blob/main/Screenshot%202026-09-22%20235853.png)
+- ![Sreenshot 5](https://github.com/Gtemowo/Faya-Mask-sales-profit-and-forecast-analysis/blob/main/Screenshot%202026-09-22%20235925.png)
+- ![Sreenshot 6](https://github.com/Gtemowo/Faya-Mask-sales-profit-and-forecast-analysis/blob/main/Screenshot%202026-09-22%20235937.png)
+- ![Sreenshot 7](https://github.com/Gtemowo/Faya-Mask-sales-profit-and-forecast-analysis/blob/main/Screenshot%202026-09-22%20235948.png)
   
 ## Files in This Repo
 - Faya\_Mask\_Final\_Project.pbix – full Power BI file
